@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572793739174.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4174346681",
+    "id" : "F0B35B7A",
+    "lastKnownWriteTime" : 1572796229,
+    "last_content_update" : 1572796229330,
+    "path" : "~/R/test_project/n4exchanges/exc.R",
+    "project_path" : "exc.R",
+    "properties" : {
+        "cursorPosition" : "50,0",
+        "scrollLine" : "21",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
